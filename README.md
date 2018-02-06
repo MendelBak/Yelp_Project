@@ -6,6 +6,6 @@ Contains validation for login, new business entries, and reviews.
 
 Contains database relationships between users, reviews, and businesses. 
 
-Project Manager: Mendel Bakaleynik.
+Team Lead: Mendel Bakaleynik.
 
 Developers: Bill Baber, Mendel Bakaleynik, and Grant Overby.
